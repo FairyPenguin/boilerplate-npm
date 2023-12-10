@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Mahmoud_A_Aziz",
   "description": "fcc-learn-npm-package-json",
+  "keywords": ["learning","package.json","npm"],
   "dependencies": {
     "express": "^4.14.0"
   },
