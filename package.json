@@ -2,7 +2,12 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Mahmoud_A_Aziz",
   "description": "fcc-learn-npm-package-json",
-  "keywords": ["learning","package.json","npm"],
+  "keywords": [
+    "learning",
+    "package.json",
+    "npm",
+    "freecodecamp"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
